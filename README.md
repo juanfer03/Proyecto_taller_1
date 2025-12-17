@@ -10,7 +10,7 @@ HTML, CSS, js
 
 ## Visualizacion
 
-[Protecto](https://juanfer03.github.io/Proyecto_taller_1/)
+[Proyecto](https://juanfer03.github.io/Proyecto_taller_1/)
 
 ## Autor
 
